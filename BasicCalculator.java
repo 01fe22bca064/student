@@ -24,7 +24,7 @@ class BasicCalculator
     }
     public static void main(String args[])
     {
-        calculator c=new calculator();
+        BasicCalculator c=new BasicCalculator();
         c.add(10,20);
         c.sub(10,5);
         c.multi(5,4);

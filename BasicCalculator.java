@@ -1,4 +1,4 @@
-class calculator
+class BasicCalculator
  {
     float a;
     float b;
